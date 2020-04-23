@@ -13,7 +13,7 @@ Negative transactions are considered expenses, and positive, income.
 
 Data can be difficult to pass around in React, so following a tutorial I was able to make use of react's UseContext method on a global scale and provide context(data) through a GlobalContext object and make changes through AppReducer.
 
-![Image](https://github.com/yungalyx/expense-tracker-beatdapp/screenshot.png)
+![Image](https://github.com/yungalyx/expense-tracker-beatdapp/blob/master/screenshot.png)
   
   
 Cheers,
