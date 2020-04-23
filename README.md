@@ -1,4 +1,4 @@
-### Installation | here's the steps to run this react app!
+## Installation | here's the steps to run this react app!
 
 * . download the zip file of my repo onto local directory (*there should be a button somewhere, maybe to the top right?*)
 * . go to command prompt or terminal, navigate to the directory with my repo using cd Desktop, cd expense-tracker-beatdapp-master
@@ -7,7 +7,7 @@
   * . if that doesn't work, try 'npm install' before 'npm start'
 
 '''  
-##### How to use (and the technical bits behind it):
+## How to use (and the technical bits behind it):
   You simply add your transactions with the following details in the prompted form, which will then automatically calculate your balance. 
 Negative transactions are considered expenses, and positive, income.
 
