@@ -10,7 +10,7 @@ export const Balance = () => {
     return (
         <>
             <h4>
-                Please Work
+                Please work part 2
             </h4>
             <h1>${total}</h1>
         </>
